@@ -8,6 +8,20 @@ The application also allows users to **create, update, and delete files easily**
 
 ---
 
+## 🎯 Purpose
+
+The main purpose of this project is to **simplify the process of collecting information and organizing it into files**.
+
+Normally, users need to:
+- Search for information on the web
+- Copy the relevant content
+- Create a file manually
+- Organize the information
+
+This project **automates the entire workflow** by combining **web search, AI processing, and file generation**, allowing users to create structured files instantly with minimal effort.
+
+---
+
 ## 🚀 Features
 
 📂 **Create Files**  
